@@ -1,0 +1,12 @@
+.class{
+    background-image: linear-gradient(lime, green);}
+
+.class2{
+    background-image: linear-gradient(red,pink);
+}
+.class3{
+    background-image: linear-gradient(red,black, green, blue, yellow, lime, white, orange, purple);
+}
+body{
+    background-image: linear-gradient(red,black, green, blue, yellow, lime, white, orange, purple, pink, grey);
+}
